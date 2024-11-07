@@ -9,26 +9,11 @@ This site is customized with the colors and elements of the logo that appears in
 ## 🎬 Demonstration
 
 <p align="center">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap1.png" alt="Imagem 1" width="80%">
-</p>
-
-<p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap2.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap3.png" alt="Imagem 1" width="45%">
-</p>
-
-<p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap4.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap5.png" alt="Imagem 1" width="45%">
-</p>
-
-<p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap6.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap7.png" alt="Imagem 1" width="45%">
-</p>
-<p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap8.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap9.png" alt="Imagem 1" width="45%">
+  <img src="https://github.com/joanadecastro/Escola_ProjetoAquarela/blob/main/assets/imgs/cap1.png" alt="Imagem 1" width="90%">
+  <img src="https://github.com/joanadecastro/Escola_ProjetoAquarela/blob/main/assets/imgs/cap2.png" alt="Imagem 1" width="90%">
+  <img src="https://github.com/joanadecastro/Escola_ProjetoAquarela/blob/main/assets/imgs/cap3.png" alt="Imagem 1" width="90%">
+  <img src="https://github.com/joanadecastro/Escola_ProjetoAquarela/blob/main/assets/imgs/cap4.png" alt="Imagem 1" width="90%">
+  <img src="https://github.com/joanadecastro/Escola_ProjetoAquarela/blob/main/assets/imgs/cap5.png" alt="Imagem 1" width="90%">
 </p>
 
 
