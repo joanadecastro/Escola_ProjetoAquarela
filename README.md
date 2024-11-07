@@ -3,14 +3,8 @@
 
 # Escola Projeto Aquarela
 
-This project was developed as part of the final project of Flag's Frontend Developer course, in which I obtained a grade of 16. A responsive login interface that goes up to a main menu page with 4 buttons. Throughout the interface, which was designed and thought up by me, I tried to make the most of css and js animations and play around with it, since it was just an academic experiment. All the icons were designed by me in adobe illustrator and so it results in a unique and exclusive interface full of creativity that identifies me so much.
-
-
-## 📄 Description 
-- Sign-in screen
-- Signup screen
-- Main menu with: Homepage, User, Search, Chat
-
+This is a website I'm developing for an extracurricular activities school. A simple and intuitive design divided into six sections: Home, who we are, activities, blog, contacts and store.
+This site is customized with the colors and elements of the logo that appears in the home section. It should be responsive and adaptable to any interface.
 
 ## 🎬 Demonstration
 
@@ -38,13 +32,10 @@ This project was developed as part of the final project of Flag's Frontend Devel
 </p>
 
 
-
-
-
 ## 🚀 Features
 
 - Responsive Design: The layout adapts to different screen sizes, including mobile devices.
-- Smooth Animations: Simple visual effects for a more enjoyable experience.
+
 
 ## 🛠️ Technologies Used
 
